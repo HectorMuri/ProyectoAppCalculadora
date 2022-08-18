@@ -15,7 +15,7 @@ public class AppCalculadora {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        calculadora nuevaCalc = new calculadora;
+        calculadora nuevaCalc = new calculadora();
         nuevaCalc.setVisible(true);
         
         
